@@ -7,7 +7,7 @@
   box-sizing: border-box; }
 
 body {
-  background-color: #3d3c96;
+  background-color: RoyalBlue;
   font-family: "Open Sans", sans-serif;
   color: #FFF;
   overflow-x: hidden; }
@@ -38,7 +38,7 @@ body {
   text-align: center;
   max-width: 400px;
   display: block;
-  color: #3d3c96;
+  color: #7E963C;
   padding: 1rem 0;
   font-size: 1rem;
   background-color: #f8a5ae;
@@ -74,7 +74,7 @@ h2, .nav2 a {
   h2::before, .nav2 a::before {
     content: ">>";
     position: relative;
-    color: #f8a5ae;
+    color: #0CCC72;
     margin-right: 0.8rem;
     font-weight: 600; }
   @media (min-width: 1920px) {
